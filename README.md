@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-itobuz&show_icons=true&locale=en&layout=compact" alt="aayush-itobuz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-itobuz&show_icons=true&locale=en" alt="aayush-itobuz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-itobuz&" alt="aayush-itobuz" /></p>
